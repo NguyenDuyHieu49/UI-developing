@@ -15,8 +15,10 @@ class PostInput extends StatelessWidget {
               children: const [
                 CircleAvatar(child: Icon(Icons.person)),
                 SizedBox(width: 10),
-                Text("What’s on your mind?",
-                    style: TextStyle(color: Colors.grey)),
+                Text(
+                  "What’s on your mind?",
+                  style: TextStyle(color: Colors.grey),
+                ),
               ],
             ),
             const Divider(height: 20),
@@ -27,7 +29,7 @@ class PostInput extends StatelessWidget {
                 Icon(Icons.mail, color: Colors.blue),
                 Icon(Icons.add_circle, color: Colors.blue),
               ],
-            )
+            ),
           ],
         ),
       ),
