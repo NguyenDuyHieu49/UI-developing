@@ -13,3 +13,4 @@ class ForumNotification {
     this.isRead = false,
   });
 }
+ 

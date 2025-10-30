@@ -8,10 +8,8 @@ class ExamplePost {
       avatar: "assets/images/ic_user_avatar.png",
       time: "3 hours ago",
       title: "Welcome to the Forum!",
-      content:
-          "This is our first post. Let’s build a great community together!",
-      imageUrl:
-          "https://cdn.oneesports.vn/cdn-data/sites/4/2023/05/kimetsunoyaiba-anime.jpg",
+      content: "This is our first post. Let’s build a great community together!",
+      imageUrl: "https://cdn.oneesports.vn/cdn-data/sites/4/2023/05/kimetsunoyaiba-anime.jpg",
       likes: 1,
       comments: 0,
       shares: 0,
